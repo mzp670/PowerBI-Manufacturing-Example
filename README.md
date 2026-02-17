@@ -27,6 +27,8 @@ This tab focuses on **how many bikes pass inspection the first time**, without a
 - Is overall product quality improving or declining?  
 - Which shifts or line show instability?  
 - How severe are the breakdown points in production?
+  
+![PBI Bike Lowres](asset_repo/PBI%20Bike%20Lowres.gif)
 
 ---
 
@@ -43,6 +45,8 @@ This section dives deeper into **where defects originate**, **which types are mo
 - Which assembly stages require immediate attention?  
 - Are defects driven by operator error, equipment wear, or supplier problems?  
 - How much is poor quality costing us per product line?
+
+![PBI Bike Fault Lowres](asset_repo/PBI%20Bike%20Fault%20Lowres.gif)
 
 ---
 
