@@ -24,7 +24,7 @@ By transforming a traditional tracking file into an interactive Power BI report,
 <p align="center"><img src="Asset_Repo/AH_Tooltip.jpg" width="500"/></p>
 
 
-- **Dynamic narrative: because charts deserve a hype narrator.** Sometimes visuals are too high-level, other times they’re buried in detail—so adding a dynamic, filter-aware summary bridges the gap. Using measures tied to slicer selections, the dashboard automatically highlights the months with the highest and lowest assembly hold reports and calculates the year-over-year percentage increase or decrease. The result? A smart narrative that surfaces key takeaways instantly—no detective work required.
+- **Dynamic narrative: because charts deserve a hype narrator.** Sometimes visuals are too high-level, other times they’re buried in detail—so adding a dynamic, filter-aware summary bridges the gap. Using DAX conditional measures tied to slicer selections, the dashboard automatically highlights the months with the highest and lowest assembly hold reports and calculates the year-over-year percentage increase or decrease. The result? A smart narrative that surfaces key takeaways instantly—no detective work required.
 
 <p align="center"><img src="Asset_Repo/AH_Narrative.jpg" width="500"/></p>
 
